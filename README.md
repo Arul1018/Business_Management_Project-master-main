@@ -8,12 +8,8 @@ A comprehensive business management application designed to streamline various b
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributors](#contributors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Features
 
@@ -42,8 +38,9 @@ Ensure you have the following installed:
 - [Apache Maven](https://maven.apache.org/download.cgi)
 - [MySQL](https://dev.mysql.com/downloads/installer/) or any other relational database management system
 
-### Installation
+## Collaborators
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Arul1018/Business_Management_Project-master-main.git
+- [Gowthamsidharth K](https://github.com/GowthamsidharthK)
+- [Collaborator2](https://github.com/Collaborator2)
+- [Collaborator3](https://github.com/Collaborator3)
+
