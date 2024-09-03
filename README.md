@@ -41,6 +41,6 @@ Ensure you have the following installed:
 ## Collaborators
 
 - [Gowthamsidharth K](https://github.com/GowthamsidharthK)
-- [Collaborator2](https://github.com/Collaborator2)
-- [Collaborator3](https://github.com/Collaborator3)
-
+- [Manojkumar](https://github.com/MKVJ1010)
+- [Nithinraj](https://github.com/Nithinraj15)
+- [Manojkumar](https://github.com/MKVJ1010)
